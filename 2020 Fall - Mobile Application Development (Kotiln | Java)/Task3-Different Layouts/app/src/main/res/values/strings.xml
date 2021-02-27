@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Layouts Example</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="linear_layout">Linear Layout</string>
+    <string name="grid_layout">Grid Layout</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="constraints_layout">Constraints Layout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button6">Button6</string>
+    <string name="button3">Button3</string>
+    <string name="button5">Button5</string>
+    <string name="button4">Button4</string>
+    <string name="done">Done</string>
+    <string name="reminder">Reminder</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+</resources>

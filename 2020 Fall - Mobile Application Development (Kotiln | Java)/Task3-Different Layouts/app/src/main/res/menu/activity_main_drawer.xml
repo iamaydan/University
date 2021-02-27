@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_linear"
+            android:icon="@drawable/ic_linear"
+            android:title="@string/linear_layout" />
+        <item
+            android:id="@+id/nav_relative"
+            android:icon="@drawable/ic_relative"
+            android:title="@string/relative_layout" />
+        <item
+            android:id="@+id/nav_grid"
+            android:icon="@drawable/ic_grid"
+            android:title="@string/grid_layout" />
+        <item
+            android:id="@+id/nav_constraints"
+            android:icon="@drawable/ic_constraints"
+            android:title="@string/constraints_layout" />
+    </group>
+</menu>

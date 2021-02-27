@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="textView_sample">TextView Sample</string>
+    <string name="hide_or_show_textView">hide or show textView</string>
+</resources>

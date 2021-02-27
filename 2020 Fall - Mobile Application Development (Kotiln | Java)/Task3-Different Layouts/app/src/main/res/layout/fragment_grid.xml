@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.gridlayout.widget.GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="20dp"
+    app:columnCount="3"
+    app:orientation="vertical"
+    tools:context=".ui.grid.GridFragment">
+
+    <Button
+        android:id="@+id/btn1g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button1" />
+
+    <Button
+        android:id="@+id/btn2g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button2" />
+
+    <Button
+        android:id="@+id/btn3g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button3"
+        app:layout_column="2" />
+
+    <Button
+        android:id="@+id/btn4g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button4"
+        app:layout_column="1"
+        app:layout_columnWeight="1" />
+
+    <Button
+        android:id="@+id/btn5g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button5"
+        app:layout_column="2" />
+
+    <Button
+        android:id="@+id/btn6g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button6"
+        app:layout_column="0" />
+
+
+</androidx.gridlayout.widget.GridLayout>

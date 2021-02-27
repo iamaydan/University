@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="16dp"
+    tools:context=".ui.grid.GridFragment">
+
+    <TextView
+        android:id="@+id/text_relative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn1r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/btn2r"
+        android:layout_marginEnd="8dp"
+        android:layout_toStartOf="@+id/btn2r"
+        android:text="@string/yes"
+        tools:ignore="RelativeOverlap" />
+
+    <Button
+        android:id="@+id/btn2r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="32dp"
+        android:text="@string/cancel" />
+
+    <Button
+        android:id="@+id/btn3r"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button3" />
+
+    <Button
+        android:id="@+id/btn4r"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/button4" />
+
+    <Button
+        android:id="@+id/btn5r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/btn4r"
+        android:layout_alignTop="@+id/btn4r"
+        android:layout_marginTop="80dp"
+        android:text="@string/button5" />
+
+    <Button
+        android:id="@+id/btn6r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/btn4r"
+        android:layout_alignEnd="@+id/btn4r"
+        android:layout_marginTop="80dp"
+        android:text="@string/button6" />
+
+</RelativeLayout>
