@@ -1,4 +1,10 @@
 # Overview
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 ![alt text](https://yenifikir.az/images/news/515_BEU.png)
 
 Portfolio of my university assignments completed by me for Academic purposes.
@@ -29,11 +35,27 @@ Portfolio of my university assignments completed by me for Academic purposes.
 4. [Heap Functions](https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Operating%20Systems%20(C%2B%2B)/Task3-Heap%20Functions)
 
 
-# License
-
-[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)    
-
-
 # Contribution
 
 Have you spotted a typo, would you like to fix a link, or is there something you’d like to suggest? Browse the source repository of this article and open a pull request. I will do my best to review your proposal in due time.
+
+
+# License
+
+Licensed under [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/iamaydan/University.svg?style=for-the-badge
+[contributors-url]: https://github.com/iamaydan/University/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/iamaydan/University?style=for-the-badge
+[forks-url]: https://github.com/iamaydan/University/network/members
+[stars-shield]: https://img.shields.io/github/stars/iamaydan/University.svg?style=for-the-badge
+[stars-url]: https://github.com/iamaydan/University/stargazers
+[issues-shield]: https://img.shields.io/github/issues/iamaydan/University.svg?style=for-the-badge
+[issues-url]: https://github.com/iamaydan/University/issues
+[license-shield]: https://img.shields.io/github/license/iamaydan/University.svg?style=for-the-badge
+[license-url]: https://github.com/iamaydan/University/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/iamaydan
+
