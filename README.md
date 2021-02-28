@@ -7,18 +7,16 @@ Portfolio of my university assignments completed by me for Academic purposes.
 
 <details open="open">
   <ul>
-    <li>
-      <a href="#mobile-application-development">Mobile Application Development</a>
+      <a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)">Mobile Application Development</a>
       <ol>
         <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/SDF-Minesweeper">Minesweeper</a></li>
-	<li><a href="#built-with">Toast Message</a></li>
-        <li><a href="#built-with">Lifecycle Events</a></li>
-        <li><a href="#built-with">Different Layouts</a></li>
-        <li><a href="#built-with">onActivityResult</a></li>
-        <li><a href="#built-with">Camera</a></li>
-        <li><a href="#built-with">Dictionary</a></li>
+	<li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task1-Toast%20Message">Toast Message</a></li>
+        <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task2-Lifecycle%20Events">Lifecycle Events</a></li>
+        <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task3-Different%20Layouts">Different Layouts</a></li>
+        <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task4-onActivityResult">onActivityResult</a></li>
+        <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task5-Camera">Camera</a></li>
+        <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task6_7-Dictionary%20(SQLite">Dictionary</a></li>
       </ol>
-    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
