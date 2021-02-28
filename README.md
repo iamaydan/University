@@ -5,7 +5,7 @@ Portfolio of my university assignments completed by me for Academic purposes.
 
 ## Table of Contents
 
-### Mobile Application Development
+### #️⃣ Mobile Application Development
 
 1. [Minesweeper](https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/SDF-Minesweeper)
 2. [Toast Message](https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task1-Toast%20Message)
