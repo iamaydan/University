@@ -19,4 +19,4 @@ gh repo clone iamaydan/Assignment2_CLIENT
 To use this app you need to import it in Visual Studio (or any C++ based program.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
