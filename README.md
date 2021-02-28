@@ -1,4 +1,4 @@
-# University Assignment Repo
+# Overview
 ![alt text](https://yenifikir.az/images/news/515_BEU.png)
 
 Portfolio of my university assignments completed by me for Academic purposes.
