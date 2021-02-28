@@ -6,7 +6,7 @@ Portfolio of my university assignments completed by me for Academic purposes.
 ## Table of Contents
 
 <details open="open">
-  <ol>
+  <ul>
     <li>
       <a href="#mobile-application-development">Mobile Application Development</a>
       <ol>
@@ -32,7 +32,7 @@ Portfolio of my university assignments completed by me for Academic purposes.
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
+  </ul>
 </details>
 
 ### Mobile Application Development
