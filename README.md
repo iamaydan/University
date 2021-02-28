@@ -5,6 +5,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 ![alt text](https://yenifikir.az/images/news/515_BEU.png)
 
 Portfolio of my university assignments completed by me for Academic purposes.
