@@ -19,4 +19,4 @@ gh repo clone iamaydan/Uni_Task1_C_sharp
 To use this app you need to import it in Visual Studio and simply run.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
