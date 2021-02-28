@@ -19,4 +19,4 @@ gh repo clone iamaydan/Task2
 To use this app you need to import it in Android Studio.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
