@@ -7,7 +7,7 @@ Portfolio of my university assignments completed by me for Academic purposes.
 
 <details open="open">
   <ul>
-      <a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)">Mobile Application Development</a>
+     <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)">Mobile Application Development</a></li>
       <ol>
         <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/SDF-Minesweeper">Minesweeper</a></li>
 	<li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task1-Toast%20Message">Toast Message</a></li>
@@ -17,19 +17,6 @@ Portfolio of my university assignments completed by me for Academic purposes.
         <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task5-Camera">Camera</a></li>
         <li><a href="https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task6_7-Dictionary%20(SQLite">Dictionary</a></li>
       </ol>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ul>
 </details>
 
