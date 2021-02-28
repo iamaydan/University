@@ -34,6 +34,6 @@ Portfolio of my university assignments completed by me for Academic purposes.
 [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)    
 
 
-# Contribute
+# Contribution
 
 Have you spotted a typo, would you like to fix a link, or is there something you’d like to suggest? Browse the source repository of this article and open a pull request. I will do my best to review your proposal in due time.
