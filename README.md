@@ -16,12 +16,12 @@ Portfolio of my university assignments completed by me for Academic purposes.
 7. [Dictionary (SQLite)](https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Mobile%20Application%20Development%20(Kotiln%20%7C%20Java)/Task6_7-Dictionary%20(SQLite)) 
 
 	
-### Modern Programming Languages
+### #️⃣ Modern Programming Languages
 
 1. [TMS](https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Modern%20Programming%20Languages%20(C%23)%20/TMS)
 
 
-### Operating Systems
+### #️⃣ Operating Systems
 
 1. [Critical Section](https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Operating%20Systems%20(C%2B%2B)/Task1-Critical%20Section)
 2. [File Mapping CLIENT side](https://github.com/iamaydan/University/tree/master/2020%20Fall%20-%20Operating%20Systems%20(C%2B%2B)/Task2-File%20Mapping%20CLIENT%20side)
